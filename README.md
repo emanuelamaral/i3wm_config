@@ -1,4 +1,4 @@
-# Guia de Atalhos do i3 Window Manager
+# Minha configuração do I3wm
 
 Este é um guia de atalhos para o i3 Window Manager, com as teclas de atalho que estão disponíveis no arquivo de configuração padrão. O i3 é um gerenciador de janelas altamente configurável e eficiente para sistemas Linux.
 
