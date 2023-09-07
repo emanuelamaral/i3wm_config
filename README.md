@@ -1,6 +1,6 @@
-# Minha configuração personalizada do i3wm
+# Guia de Atalhos do i3 Window Manager
 
-Este é um guia de atalhos para o i3 Window Manager, com as teclas de atalho que estão descomentadas no arquivo de configuração padrão. O i3 é um gerenciador de janelas altamente configurável e eficiente para sistemas Linux.
+Este é um guia de atalhos para o i3 Window Manager, com as teclas de atalho que estão disponíveis no arquivo de configuração padrão. O i3 é um gerenciador de janelas altamente configurável e eficiente para sistemas Linux.
 
 ## Navegação entre Janelas
 
@@ -26,6 +26,13 @@ Este é um guia de atalhos para o i3 Window Manager, com as teclas de atalho que
 - **$mod+Shift+space** - Alterna entre modo de janelas em mosaico e flutuantes.
 - **$mod+space** - Alterna o foco entre janelas em mosaico e flutuantes.
 
+## Atalhos de Redimensionamento
+
+- **$mod+Control+Right** - Aumenta a largura da janela atual.
+- **$mod+Control+Left** - Diminui a largura da janela atual.
+- **$mod+Control+Up** - Aumenta a altura da janela atual.
+- **$mod+Control+Down** - Diminui a altura da janela atual.
+
 ## Outros Atalhos Úteis
 
 - **$mod+Return** - Abre um terminal (no exemplo, é usado o Termite).
@@ -42,14 +49,8 @@ Este é um guia de atalhos para o i3 Window Manager, com as teclas de atalho que
 - **$mod+Shift+r** - Reinicia o i3 sem fechar a sessão.
 - **$mod+Shift+q** - Exibe um aviso para confirmar o fechamento do i3 e sair da sessão X.
 
-## Redimensionamento de Janelas (Comentado)
-
-Os atalhos de redimensionamento de janelas estão comentados no arquivo de configuração, mas você pode descomentá-los e usá-los conforme desejar. Eles permitem ajustar o tamanho das janelas usando teclas específicas.
-
-Lembre-se de que esses são apenas atalhos padrão e podem ser personalizados de acordo com suas preferências editando o arquivo de configuração do i3.
-
 Divirta-se explorando o i3 e ajustando-o de acordo com suas necessidades!
 
 --- 
 
-Sinta-se à vontade para personalizar este guia com mais informações ou detalhes específicos do seu ambiente de trabalho, se necessário.
+Lembre-se de que esses são apenas atalhos padrão e podem ser personalizados de acordo com suas preferências editando o arquivo de configuração do i3.
